@@ -1,3 +1,9 @@
+numix-icons-galliumos-test (0wip1) UNRELEASED; urgency=medium
+
+  * WIP. build with `dpkg-buildpackage -b`
+
+ -- reynhout <reynhout@galliumos.org>  Sun, 26 Feb 2017 21:09:51 +0000
+
 numix-icons-galliumos (0git20151013.129da4d-galliumos5) xenon; urgency=medium
 
   * Test inheriting of upstream themes

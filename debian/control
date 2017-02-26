@@ -1,11 +1,11 @@
-Source: numix-icons-galliumos
+Source: numix-icons-galliumos-test
 Section: misc
 Priority: optional
 Maintainer: Hugh Greenberg <hugh@galliumos.org>
 XSBC-Original-Maintainer: Hugh Greenberg <hugh@galliumos.org>
 Standards-Version: 3.9.1
 
-Package: numix-icons-galliumos
+Package: numix-icons-galliumos-test
 Provides: base
 Architecture: any
 Priority: optional

@@ -16,7 +16,7 @@ binary-arch: build
 	install -d debian/tmp/usr/share/icons
 	cp -r Numix* debian/tmp/usr/share/icons
 	chmod -R a+rX debian/tmp/usr/share/icons
-	dpkg-gencontrol -pnumix-icons-galliumos
+	dpkg-gencontrol -pnumix-icons-galliumos-test
 	dpkg-deb --build -Zgzip debian/tmp ..
 
 binary: binary-arch
