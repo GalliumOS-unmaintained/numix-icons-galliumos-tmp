@@ -1,0 +1,11 @@
+Package: numix-icons-galliumos
+Version: 0git20151013.129da4d-galliumos5
+Architecture: amd64
+Maintainer: Hugh Greenberg <hugh@galliumos.org>
+Installed-Size: 58494
+Depends: xubuntu-icon-theme
+Provides: base
+Section: misc
+Priority: optional
+Description: Numix icons with small customizations for GalliumOS
+Original-Maintainer: Hugh Greenberg <hugh@galliumos.org>
