@@ -1,2 +1,4 @@
-# numix-icons-galliumos
-Numix icons https://numixproject.org/ for GalliumOS
+Numix icon theme for GalliumOS
+
+https://numixproject.org/
+
