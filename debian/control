@@ -9,5 +9,5 @@ Package: numix-icons-galliumos-test
 Provides: base
 Architecture: any
 Priority: optional
-Depends: xubuntu-icon-theme
+Depends: xubuntu-icon-theme, numix-icon-theme, numix-icon-theme-circle
 Description: Numix icons with small customizations for GalliumOS
