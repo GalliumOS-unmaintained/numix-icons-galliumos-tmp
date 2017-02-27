@@ -1,4 +1,4 @@
-numix-icons-galliumos (2.0.0) UNRELEASED; urgency=medium
+numix-icons-galliumos (2.0.0) xenon; urgency=medium
 
   * Initial release of reworked pkg
     - depend on (and inherit from) republished upstream pkgs for most content
