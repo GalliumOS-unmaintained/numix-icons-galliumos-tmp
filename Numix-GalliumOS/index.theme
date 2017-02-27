@@ -1,7 +1,6 @@
 [Icon Theme]
-Name=Numix GalliumOS Test
-
-Comment=Icon theme from Numix Project
+Name=Numix GalliumOS
+Comment=Numix for GalliumOS
 
 Inherits=Numix-Folders,Numix-Circle,elementary-xfce
 

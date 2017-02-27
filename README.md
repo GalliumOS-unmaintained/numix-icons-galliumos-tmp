@@ -1,4 +1,4 @@
-Numix icon theme for GalliumOS
+GalliumOS modifications of Numix icon themes
 
 https://numixproject.org/
 

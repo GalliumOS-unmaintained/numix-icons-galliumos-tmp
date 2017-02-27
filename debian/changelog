@@ -1,6 +1,8 @@
-numix-icons-galliumos-test (0wip1) UNRELEASED; urgency=medium
+numix-icons-galliumos (2.0.0) UNRELEASED; urgency=medium
 
-  * WIP. build with `dpkg-buildpackage -b`
+  * Initial release of reworked pkg
+    - depend on (and inherit from) republished upstream pkgs for most content
+    - publish only our modifications
 
  -- reynhout <reynhout@galliumos.org>  Sun, 26 Feb 2017 21:09:51 +0000
 

@@ -1,8 +1,8 @@
 [Icon Theme]
-Name=Numix Circle GalliumOS Test
+Name=Numix Circle GalliumOS
 Comment=Numix Circle for GalliumOS
 
-Inherits=Numix-GalliumOS-Test
+Inherits=Numix-GalliumOS
 
 Example=directory-x-normal
 
