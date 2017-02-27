@@ -7,7 +7,7 @@ Standards-Version: 3.9.1
 
 Package: numix-icons-galliumos
 Provides: base
-Architecture: any
+Architecture: all
 Priority: optional
 Depends: xubuntu-icon-theme, numix-icon-theme, numix-icon-theme-circle, numix-folders-galliumos
 Description: GalliumOS customizations of Numix icons themes
