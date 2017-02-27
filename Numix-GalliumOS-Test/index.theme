@@ -17,3 +17,11 @@ MinSize=8
 MaxSize=21
 Type=Scalable
 
+[16@2x/status]
+Size=16
+Scale=2
+Context=Status
+MinSize=8
+MaxSize=21
+Type=Scalable
+
