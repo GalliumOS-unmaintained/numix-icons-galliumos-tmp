@@ -3,8 +3,7 @@ Name=Numix GalliumOS Test
 
 Comment=Icon theme from Numix Project
 
-#Inherits=Numix-Folders
-Inherits=Numix-Folders,Numix-Circle,elementary-xfce,gnome,hicolor
+Inherits=Numix-Folders,Numix-Circle,elementary-xfce
 
 Example=folder
 

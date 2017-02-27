@@ -10,4 +10,4 @@ Provides: base
 Architecture: any
 Priority: optional
 Depends: xubuntu-icon-theme, numix-icon-theme, numix-icon-theme-circle, numix-folders-galliumos
-Description: Numix icons with small customizations for GalliumOS
+Description: GalliumOS customizations of Numix icons themes
